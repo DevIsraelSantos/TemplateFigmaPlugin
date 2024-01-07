@@ -1,6 +1,6 @@
 # Template Plugin para Figma
 
-<!-- [🇺🇸 English](#part-in-english) 🌟 Help us by starring the project! 🌟 -->
+[🇺🇸 English](#english-guide) 🌟 Help us by starring the project! 🌟
 
 [🇧🇷 Português](#guia-em-português) 🌟 Ajude-nos dando uma estrela ao projeto! 🌟
 

@@ -11,6 +11,7 @@ const OtherPage = ({ ...props }: OtherPageProps): JSX.Element => {
   };
   return (
     <FlexContainer full class="bg-white justify-center items-center gap-1">
+      Elika
       <button
         class={"border border-black text-black bg-blue-300 p-4 rounded-md"}
         onClick={handlerClick}
